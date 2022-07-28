@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eliezer Solano</h1>
 <h3 align="center">A passionate frontend developer from San Marcos Gro, biker and student</h3>
 <img align="center" src="img/justMe.jpeg">
-<img align="center" src="img/mytravels.jpeg" width="40%">	
+<img align="center" src="img/mytravels.jpeg" width="64%">	
 
 - 🔭 I’m currently working on **Personal Proyects**
 
