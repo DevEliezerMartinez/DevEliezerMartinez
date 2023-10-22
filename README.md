@@ -3,6 +3,9 @@
 <!--📏LINE-->
 <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" height="20" width="100%">
 
+
+
+
 ## Eliezer Martinez
 
 Hey there, I'm Eliezer, a 22 years old web developer from México🇲🇽.
@@ -26,11 +29,26 @@ Hey there, I'm Eliezer, a 22 years old web developer from México🇲🇽.
 - 📚 As an English Teacher at Building Knowledge Organization, I instructed young children in English to promote foreign language acquisition.
 
 
+
+## 🏆 Awards:
+- Best Industry Project Award from Mirai Innovation
+- Academic Recognition from the Guerrero State Government
+
+## 🎙️ Speaker at:
+- Path to Success Conference - TecNM: San Marcos
+- Youth in Technology Conference - Colegio de Bachilleres #10
+- Cibersegurity, risk and implications - Centro Universitario del Pacifico Sur
+
+
+## 🛡️ Certifications:
+- Microsoft Azure Fundamentals AZ-900
+- Cyber Security Essentials by Cisco
 ## Where to find me?
 
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:develiezermartinez@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezermartinez/) [![LinkTree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/eliezerMartinez) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@develiezermartinez?lang=es) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliezer_martinez.code/)
+
 
 
 ##  🛠 Tech Stack
