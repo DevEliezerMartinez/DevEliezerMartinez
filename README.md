@@ -8,26 +8,32 @@
 
 ## Eliezer Martinez
 
-Hey there, I'm Eliezer, a 22 years old web developer from México🇲🇽.
+Hey there, I'm Eliezer, a 24 years old web developer from México🇲🇽.
 
 
 
 <p align="center">
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cz7mv6o4ppuipcl7z4yhelp3qy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-- 🎓 Bachelor's in Computer Engineering from Tecnológico Nacional de México, graduating in June 2024.
+### 💼 Experiencia:
+- **Full Stack Developer & Technical Lead** at **Los Reyes del Injerto** (May 2024 - January 2025):
+  - Managed and optimized an internal ERP using PHP and MySQL, implementing database improvements to enhance system performance and scalability.
+  - Developed backend logic, including the creation of RESTful API endpoints for efficient frontend integration.
+  - Implemented UI features using Bootstrap and jQuery, improving the end-user experience.
+  - Developed critical systems such as real-time file uploads, Telegram API integration for automated notifications, and customized workflows through scripts.
+  - Maintained servers in an Ubuntu environment and optimized disks and databases to ensure scalability and system stability.
 
-- 💼 Internship at Mirai Innovation Research Institute, Osaka, Japan (April 2023 - July 2023), where I gained knowledge in AI, software development, cloud computing, robotics, and Linux.
+- **Backend Developer** at **MPYP** (August 2023 - December 2023):
+  - Developed robust applications using Laravel and SQL, implementing efficient backend solutions to optimize application speed and performance.
+  - Configured and maintained MySQL database servers, optimizing queries and improving response times.
+  - Implemented API integrations, authentication management with Laravel Sanctum, and data processing features to enhance system reliability and security.
 
-- 👨‍💻 Full-Stack Developer, currently working as a freelancer, specializing in creating web applications for startups, educational institutions.
-
-- 🌟 Served as the Executive President of the Student Society, fostering collaboration, organizing events, and resolving community issues.
-
-- 📚 As an English Teacher at Building Knowledge Organization, I instructed young children in English to promote foreign language acquisition.
-
+- **Internship** at **Mirai Innovation Research Institute**, Osaka, Japan (April 2023 - July 2023): Gained expertise in AI, software development, cloud computing, robotics, and Linux.
+- **Freelance Full-Stack Developer**: Specializing in building web applications for startups and educational institutions.
+- **Executive President** of the **Student Society** at Tecnológico Nacional de México: Led collaboration efforts, organized events, and resolved community issues.
+- **English Teacher** at **Building Knowledge Organization**: Taught young children English to promote language acquisition.
 
 
 ## 🏆 Awards:
